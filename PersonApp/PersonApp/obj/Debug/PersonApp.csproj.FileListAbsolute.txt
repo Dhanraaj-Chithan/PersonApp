@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+c:\users\administrator\documents\visual studio 2012\Projects\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\PersonApp\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+c:\users\administrator\documents\visual studio 2012\Projects\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
